@@ -11,8 +11,8 @@
 	<groupId>com.ecommerce</groupId>
 	<artifactId>config-server</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name/>
-	<description/>
+	<name>ecommerce-config-server</name>
+	<description>Centralized configuration server for the E-Commerce Microservices application</description>
 	<url/>
 	<licenses>
 		<license/>
